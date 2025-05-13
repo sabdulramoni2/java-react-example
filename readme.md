@@ -39,6 +39,12 @@ An example of how to use JS frontend to consume an endpoint written in Java.
 
   ![image](https://github.com/user-attachments/assets/24c6ed71-d0b4-436f-856a-96b580805459)
 
+- To see the port the application is runing using netstat -lpnt (List only the servers that have active internet connection)
+  
+  ![image](https://github.com/user-attachments/assets/fd2e76af-0c32-491b-a753-79a5717acd26)
+
+  
+
 
 
 
