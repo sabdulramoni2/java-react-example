@@ -1,6 +1,6 @@
 # Java-React Example
 
-An example of how to use JS frontend to consume an endpoint written in Java.
+This project demonstrate running a java application on Digital droplet server
 
 ## **Project Overview**
 - Setup server on DigitalOcean
