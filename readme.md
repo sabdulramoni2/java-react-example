@@ -29,10 +29,16 @@ An example of how to use JS frontend to consume an endpoint written in Java.
   
   ![image](https://github.com/user-attachments/assets/c9192650-dc4d-4ec7-bbf6-c4b3cda4149c)
 
+- Access the application on the url
   ![image](https://github.com/user-attachments/assets/a40ba18e-abde-4d85-bcd8-7ef33039a7e3)
 
 
   ![image](https://github.com/user-attachments/assets/291c4d69-33aa-47dc-99cf-3d1d2238f022)
+
+- To check if process is running on the terminal
+
+  ![image](https://github.com/user-attachments/assets/24c6ed71-d0b4-436f-856a-96b580805459)
+
 
 
 
