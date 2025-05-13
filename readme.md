@@ -45,15 +45,21 @@ An example of how to use JS frontend to consume an endpoint written in Java.
 
   
 
-
-
-
-
-
 ## **Create a Linux User on the droplet**
-- Added User
-- Added new User to sudo group
+- Added User and new User to sudo group
+  ![image](https://github.com/user-attachments/assets/da37360f-68eb-4f60-8315-551cdc5221f9)
+
+
+  ![image](https://github.com/user-attachments/assets/0db6c2c0-a830-4697-bbed-3600ecefd9d0)
+
+
+  ![image](https://github.com/user-attachments/assets/52e898cf-1a0c-4af2-a1f9-23e4be2439ee)
+
+
 - Created .ssh folder with ssh key for new User
+
+  ![image](https://github.com/user-attachments/assets/b6422dd5-acb1-4e23-9c09-4ccd1f550dc9)
+
 
 
  
