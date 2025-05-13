@@ -14,18 +14,28 @@ An example of how to use JS frontend to consume an endpoint written in Java.
 - Connected to Droplet
 - Installed Java on Droplet
 
-- ![image](https://github.com/user-attachments/assets/aa05e266-25e8-4465-a842-4c2a18505278)
+ ![image](https://github.com/user-attachments/assets/aa05e266-25e8-4465-a842-4c2a18505278)
 
 
 ## **Deploy Application on Droplet**
 - Built Jar File with gradle
-- ![image](https://github.com/user-attachments/assets/b49b06b4-17ba-4a14-8848-1be5ae490488)
+ ![image](https://github.com/user-attachments/assets/b49b06b4-17ba-4a14-8848-1be5ae490488)
 
 - Copied to remote Server (Droplet)
-- ![image](https://github.com/user-attachments/assets/16b02d42-6d8e-47ce-9497-a277df6f5e9c)
+ ![image](https://github.com/user-attachments/assets/16b02d42-6d8e-47ce-9497-a277df6f5e9c)
 
 - Run App on Droplet
 - Configured Firewall Rule to open port 7071 to access App via browser
+  
+  ![image](https://github.com/user-attachments/assets/c9192650-dc4d-4ec7-bbf6-c4b3cda4149c)
+
+  ![image](https://github.com/user-attachments/assets/a40ba18e-abde-4d85-bcd8-7ef33039a7e3)
+
+
+  ![image](https://github.com/user-attachments/assets/291c4d69-33aa-47dc-99cf-3d1d2238f022)
+
+
+
 
 
 ## **Create a Linux User on the droplet**
