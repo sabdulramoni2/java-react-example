@@ -2,21 +2,36 @@
 
 An example of how to use JS frontend to consume an endpoint written in Java.
 
-## Frontend technologies
+## **Project Overview**
+- Setup server on DigitalOcean
+- Deploy App on Droplet
+- Create a Linux User
 
-- [React](https://facebook.github.io/react/) - UI Library
-- [Redux](http://redux.js.org/) - State container
+## **Install dependencies**
+- Created a DigitalOcean account (Free Tier)
+- Created a Droplet
+- Configured Firewall rule to open port 22 for your IP address
+- Connected to Droplet
+- Installed Java on Droplet
 
-## Additional information
+- ![image](https://github.com/user-attachments/assets/aa05e266-25e8-4465-a842-4c2a18505278)
 
-This project is a part of a [presentation](https://docs.google.com/presentation/d/1-yZhsM43cyWWDVn6EUtK_wc39FAv-19_jwsKXlTe2o8/edit?usp=sharing)
 
-Related projects:
+## **Deploy Application on Droplet**
+- Built Jar File with gradle
+- ![image](https://github.com/user-attachments/assets/b49b06b4-17ba-4a14-8848-1be5ae490488)
 
-- [react-intro](https://github.com/mendlik/react-intro) - Introduction to react and redux.
-- [java-webpack-example](https://github.com/mendlik/java-webpack-example) - Advanced example showing how to use a module bundler in  a Java project.
+- Copied to remote Server (Droplet)
+- ![image](https://github.com/user-attachments/assets/16b02d42-6d8e-47ce-9497-a277df6f5e9c)
 
-Tip: [How to enable LiveReload in IntelliJ](http://stackoverflow.com/a/35895848/2284884)
+- Run App on Droplet
+- Configured Firewall Rule to open port 7071 to access App via browser
 
-<hr/>
-Original project can be found here: https://github.com/pmendelski/java-react-example 
+
+## **Create a Linux User on the droplet**
+- Added User
+- Added new User to sudo group
+- Created .ssh folder with ssh key for new User
+
+
+ 
