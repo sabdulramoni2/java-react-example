@@ -14,6 +14,8 @@ This project demonstrate running a java application on Digital droplet server
 - Connected to Droplet
 - Installed Java on Droplet
 
+##**Diagrammatic Presentation**
+
  ![image](https://github.com/user-attachments/assets/aa05e266-25e8-4465-a842-4c2a18505278)
 
 
