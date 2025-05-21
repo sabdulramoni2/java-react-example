@@ -21,7 +21,7 @@ This project demonstrate running a java application on Digital droplet server
  ![image](https://github.com/user-attachments/assets/aa05e266-25e8-4465-a842-4c2a18505278)
 
 
-## **Deploy Application on Droplet**
+
 - Built Jar File with gradle
  ![image](https://github.com/user-attachments/assets/b49b06b4-17ba-4a14-8848-1be5ae490488)
 
